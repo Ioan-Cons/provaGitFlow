@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  apache:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    ports:
+      - "8080:80"
+    volumes:
+      - ./index.html:/usr/local/apache2/htdocs/index.html
+      - ./apache/mevahost.conf:/usr/local/apache2/conf/extra/mevahost.conf
+    restart: unless-stopped
