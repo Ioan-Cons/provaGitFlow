@@ -1,1 +1,10 @@
-dev1
+Línia 1: Text Ioan - línia 1
+Línia 2: Text Ioan - línia 2
+Línia 3: Aquesta línia és igual per totes dues
+Línia 4: Text Ioan - línia 4
+Línia 5: Text Ioan - línia 5
+Línia 6: Text Ioan - línia 6
+Línia 7: Aquesta línia també és igual
+Línia 8: Text Ioan - línia 8
+Línia 9: Text Ioan - línia 9
+Línia 10: Text Ioan - línia 10
